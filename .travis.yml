@@ -23,6 +23,6 @@ deploy:
   - "target/${filename}.exe"
   skip_cleanup: true
   on:
-    repo: toolbox4minecraft/amidst
+    repo: pancho326/amidst
     branch: releases
     tags: true
